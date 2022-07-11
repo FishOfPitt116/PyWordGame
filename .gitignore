@@ -1,0 +1,8 @@
+build
+dist
+main.spec
+
+src/__pycache__
+src/.PyWordGameEnv
+
+.DS_Store
